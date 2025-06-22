@@ -104,5 +104,5 @@ I'm passionate about quality engineering and automation, and always open to know
 - 📢 Speaking engagements
 - 🎓 Mentoring
 
-**LinkedIn:** [nidaanjum89](https://www.linkedin.com/in/nidaanjum89)  
+**LinkedIn:** [nidaanjum89](https://www.linkedin.com/in/nidaqa/)  
 **Twitter:** [@nidaanjum89](https://x.com/nidaanjum89)  
