@@ -36,6 +36,7 @@ Senior Quality Assurance Engineer with extensive experience in designing and imp
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=java&logoColor=white)
 ![K6](https://img.shields.io/badge/-k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
 
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
