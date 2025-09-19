@@ -31,12 +31,14 @@ Senior Quality Assurance Engineer with extensive experience in designing and imp
 
 ### Testing Tools & Frameworks
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat-square&logo=robot-framework&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![K6](https://img.shields.io/badge/-k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure%20Report-1a1a1a?style=flat-square&logo=allure&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=java&logoColor=white)
-![K6](https://img.shields.io/badge/-k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+
 
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,6 +49,7 @@ Senior Quality Assurance Engineer with extensive experience in designing and imp
 
 ### DevOps & CI/CD
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
 ### Monitoring
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
